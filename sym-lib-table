@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name adf7021)(type Legacy)(uri ${KIPRJMOD}/libraries/adf7021.lib)(options "")(descr ""))
   (lib (name Text)(type Legacy)(uri ${KIPRJMOD}/libraries/Text.lib)(options "")(descr ""))
+  (lib (name MMDVM_Pi3_Hat-rescue)(type Legacy)(uri ${KIPRJMOD}/MMDVM_Pi3_Hat-rescue.lib)(options "")(descr ""))
 )
