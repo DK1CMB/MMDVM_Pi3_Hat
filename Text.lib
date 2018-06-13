@@ -1,0 +1,59 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# CC_BY_NC_SA
+#
+DEF CC_BY_NC_SA TXT 0 40 Y Y 1 F N
+F0 "TXT" 0 100 50 H V C CNN
+F1 "CC_BY_NC_SA" 0 0 50 H V C CNN
+F2 "text:Logo_silk_CC-BY-NC-SA_10x3.6mm" -100 -100 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+ENDDRAW
+ENDDEF
+#
+# KiCAD-Logo_6mm
+#
+DEF KiCAD-Logo_6mm TXT 0 40 Y Y 1 F N
+F0 "TXT" 0 100 50 H V C CNN
+F1 "KiCAD-Logo_6mm" 0 0 50 H V C CNN
+F2 "Symbol:KiCad-Logo2_6mm_SilkScreen" -100 -100 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+ENDDRAW
+ENDDEF
+#
+# MMDVM-Logo
+#
+DEF MMDVM-Logo TXT 0 40 Y Y 1 F N
+F0 "TXT" 0 100 50 H V C CNN
+F1 "MMDVM-Logo" 0 0 50 H V C CNN
+F2 "text:LOGO" -100 -100 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+ENDDRAW
+ENDDEF
+#
+# OSHW-Logo_19x20mm
+#
+DEF OSHW-Logo_19x20mm TXT 0 40 Y Y 1 F N
+F0 "TXT" 0 100 50 H V C CNN
+F1 "OSHW-Logo_19x20mm" 0 0 50 H V C CNN
+F2 "Symbol:OSHW-Logo_19x20mm_SilkScreen" -100 -100 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+ENDDRAW
+ENDDEF
+#
+# PartName
+#
+DEF PartName txt 0 40 Y Y 1 F N
+F0 "txt" 0 150 50 H V C CNN
+F1 "PartName" 0 0 50 H V C CNN
+F2 "text:MMDVM_Pi3_Hat" -100 50 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+ENDDRAW
+ENDDEF
+#
+#End Library

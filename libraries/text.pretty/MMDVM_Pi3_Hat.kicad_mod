@@ -1,0 +1,11 @@
+(module MMDVM_Pi3_Hat (layer F.Cu) (tedit 5B202727)
+  (fp_text reference REF** (at 1.7 -7.65) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value MMDVM_Pi3_Hat (at 0 -5.1) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text user "MMDVM Pi3 Hat" (at 0 0) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)
